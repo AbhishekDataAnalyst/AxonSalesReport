@@ -35,7 +35,7 @@ Our solution provides recommendations for market expansion, upgrading products, 
 This project successfully addressed Axon's sales data challenges, providing a robust BI solution that enhances decision-making. 💼
 
 ## 🙌 Acknowledgments:
-I🌟 I'd like to express my gratitude to OdinSchool and Sangamesh KS Sir for their incredible support and guidance throughout the journey.
+I'd like to express my gratitude to OdinSchool and Sangamesh KS Sir for their incredible support and guidance throughout the journey.
 
 
 
