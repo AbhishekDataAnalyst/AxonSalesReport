@@ -15,7 +15,7 @@ Our capstone project aimed to:
 - Design an interactive and visually appealing sales dashboard.
 - Enable real-time access for management.
 
-## Dataset 
+## 📊 Dataset 
 - Customers: stores customer’s data.
 - Products: stores a list of scale model cars.
 - ProductLines: stores a list of product line categories.
